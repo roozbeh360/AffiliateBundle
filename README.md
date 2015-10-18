@@ -17,7 +17,7 @@ Your Order Object needs to implements \Shaygan\AffiliateBundle\Model\OrderInterf
 Via Composer
 
 ``` bash
-$ composer require shaygan/affiliate-bundle
+$ composer require shaygan/affiliate-bundle "dev-master"
 ```
 
 Edit your app/AppKernel.php to register the bundle in the registerBundles() method as above:
